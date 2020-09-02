@@ -67,7 +67,7 @@ const WarrantySection = () => (
 
 const Info = () => (
   <Description>
-    <h2>Description of the product</h2>
+    <h2>Descrição do produto</h2>
 
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, est
